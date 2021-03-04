@@ -1,12 +1,12 @@
 
-#Volodymyr Holodnik
+<h1>Volodymyr Holodnik</h1>
 
 Contact information
 -------------
 
-**Phone:** +380991189232
-**Email:** volodymyr.holodnik@gmail.com
-**Skype:** volodymyr.2005
+**Phone:** +380991189232 <br/>
+**Email:** volodymyr.holodnik@gmail.com <br/>
+**Skype:** volodymyr.2005 <br/>
 
 -------------
 
